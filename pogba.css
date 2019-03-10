@@ -32,16 +32,16 @@ nav{
   text-transform: uppercase;
 }
 
-.section h4{
+.section h5{
   text-align: left;
   font-family: Garamond;
   font-weight: 200;
-  text-decoration: none;
+  text-decoration: bold;
 }
 
 
 a{
-  text-decoration: none;
+  text-decoration: bold;
   color: blue;
 }
 
