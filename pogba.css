@@ -46,6 +46,9 @@ nav{
 
 
 a{
+  text-align: center;
+  background-color: rgb(135,206,250);
+  border: 1px red dotted;
   text-decoration: bold;
   color: blue;
 }
