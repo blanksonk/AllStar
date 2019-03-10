@@ -44,11 +44,19 @@ nav{
   text-decoration: bold;
 }
 
+.clear{
+  clear: both;
+}
+.block{
+  float: left;
+  width: 25%;
+  border: 1px red;
+  padding:10px;
+  box-sizing: border-box;
+}
 
 a{
   text-align: center;
-  background-color: rgb(135,206,250);
-  border: 1px red dotted;
   text-decoration: bold;
   color: blue;
 }
