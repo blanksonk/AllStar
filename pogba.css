@@ -1,5 +1,5 @@
 header{
-  background-color: white;
+  background-color: rgb(135,206,250);
   color: blue;
   text-align: center;
   font: bold, 30px,Arial, Helvetica, sans-serif;
@@ -10,15 +10,13 @@ nav{
 }
 
 .container{
-  background-color: white;
+  background-color: rgb(135,206,250);
   width:75%;
   margin: auto;
 }
 
 .section{
-  text-align: center;
-  border-right: 1px blue;
-  border-right-style: dashed;
+  text-align: left;
   border-bottom: 1px red;
   border-bottom-style: solid;
   padding: 5%;
