@@ -10,6 +10,7 @@ header{
 
 nav{
   background-color: white;
+  text-align: center;
 }
 
 .container{
@@ -20,7 +21,7 @@ nav{
 }
 
 .section{
-  text-align: left;
+  text-align: center;
   border-bottom: 1px red;
   border-bottom-style: solid;
   padding: 5%;
@@ -29,7 +30,7 @@ nav{
 }
 
 .section h3{
-  text-align: left;
+  text-align: center;
   font-family: Garamond;
   font-weight: 600;
   text-decoration: underline;
