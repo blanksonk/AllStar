@@ -1,27 +1,28 @@
 html{
-  background-color: rgb(135,206,250);
+  background-color: white;
 }
 header{
-  background-color: rgb(135,206,250);
-  color: blue;
+  background-color: blue;
+  color: white;
   text-align: center;
   font: bold, 30px,Arial, Helvetica, sans-serif;
 }
 
 nav{
-  background-color: rgb(135,206,250);
-  text-align: center;
+  background-color: red;
+  color: white;
+  text-align: left;
 }
 
 .container{
-  background-color: rgb(135,206,250);
+  background-color: white;
   width:75%;
   margin: auto;
   padding: 5px;
 }
 
 .section{
-  text-align: center;
+  text-align: left;
   border-bottom: 1px red;
   border-bottom-style: solid;
   padding: 5%;
@@ -30,7 +31,7 @@ nav{
 }
 
 .section h3{
-  text-align: center;
+  text-align: left;
   font-family: Garamond;
   font-weight: 600;
   text-decoration: underline;
@@ -50,25 +51,26 @@ nav{
 .block{
   float: left;
   width: 25%;
-  border: 1px red;
+  border: 2px red;
+  border-style: solid;
   padding:10px;
   box-sizing: border-box;
 }
 
-a{
-  text-align: center;
+nav a{
+  text-align: left;
   text-decoration: bold;
   color: blue;
 }
 
-a:hover{
+nav a:hover{
   color: red;
 }
 
-a:active{
+nav a:active{
   color:gold;
 }
 
-a:visited{
+nav a:visited{
   color:black;
 }
