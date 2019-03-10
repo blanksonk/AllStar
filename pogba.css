@@ -16,20 +16,28 @@ nav{
 }
 
 .section{
-  border-right: 3px blue;
+  border-right: 1px blue;
   border-right-style: dashed;
+  border-bottom: 1px white;
+  border-bottom-style: solid;
   padding: 20px;
   margin: 10px;
 
 }
 
 .section h3{
-  text-align: center;
+  text-align: left;
   font-family: Garamond;
   font-weight: 600;
   text-decoration: underline;
   text-transform: uppercase;
-  letter-spacing: .1em;
+}
+
+.section h5{
+  text-align: left;
+  font-family: Garamond;
+  font-weight: 200;
+  text-decoration: none;
 }
 
 
